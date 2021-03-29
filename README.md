@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @kaonja
+- 👀 I’m interested in  javascript, java and python
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on open sources projects
